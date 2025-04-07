@@ -87,4 +87,4 @@ Query: [3_retention_analysis](/3_retention_analysis.sql)
 ## Technical Details 
 - **Database:** PostgreSQL
 - **Analysis Tools:** PostgreSQL, DBeaver, PGadmin
-- **Visualization:** Excel and Chatgpt 
+- **Visualization:** Excel and Chatgpt
